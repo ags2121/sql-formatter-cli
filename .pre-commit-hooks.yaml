@@ -1,6 +1,6 @@
--   id: sql-formatter
+-   id: sql-formatter-cli
     name: Format SQL
     description: This hook formats SQL.
-    entry: sql-formatter
+    entry: sql-formatter-cli
     language: node
     types: [sql]
