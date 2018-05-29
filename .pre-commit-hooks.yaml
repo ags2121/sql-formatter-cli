@@ -1,0 +1,6 @@
+-   id: sql-formatter
+    name: Format SQL
+    description: This hook formats SQL.
+    entry: sql-formatter
+    language: node
+    types: [sql]
